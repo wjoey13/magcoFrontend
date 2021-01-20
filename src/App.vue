@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <img src="./assets/MagCo.jpg" alt="Magco Logo">
     <Main/>
   </div>
 </template>
